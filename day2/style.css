@@ -1,0 +1,28 @@
+h1{
+     color:#f00;
+}
+h2{
+     color: #8f2121;
+} 
+h3{
+     color:rgba(0,255,0,1);
+}
+#aa{
+    color:yellow;
+}
+#bb{
+    color:orange;
+}
+.cc{
+    color:green;
+}
+.dd{
+    color:blue;
+}
+.ee{
+    color:yellow;
+}
+.ff{
+    background-color:blue;
+    color:red;
+}
